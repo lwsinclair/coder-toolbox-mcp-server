@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lamemind-coder-toolbox-mcp-server-badge.png)](https://mseep.ai/app/lamemind-coder-toolbox-mcp-server)
+
 # Coder Toolbox MCP Server
 
 A utility toolkit designed to enhance the interaction between Claude and code, providing seamless integration tools for code analysis, manipulation, and testing workflows.
